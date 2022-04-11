@@ -2,7 +2,7 @@ package ar.edu.unahur.obj2.semillas
 
 class Menta(var altura: Double, val anioSemilla: Int) {
     fun espacio(): Double {
-        TODO("Te la debo, amigue...")
+        TODO("Lio de credenciales, Te la debo, amigue...")
     }
 
     fun daSemillas(): Boolean {
